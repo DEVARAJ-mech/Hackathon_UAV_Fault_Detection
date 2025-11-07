@@ -48,9 +48,7 @@ Each file includes sensor readings from the drone and its controller over severa
    - Dimensionality reduction (PCA or autoencoders)
 
 3. **Fault Detection & Classification**
-   - Machine Learning: Random Forest, SVM, Gradient Boosting  
-   - Deep Learning: LSTM or CNN for time-series patterns  
-   - Unsupervised models: Isolation Forest, Autoencoder-based anomaly detection
+   - Machine Learning: Random Forest, Logistic Regression
 
 4. **Evaluation**
    - Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC  
