@@ -58,5 +58,8 @@ Each file includes sensor readings from the drone and its controller over severa
    - Severity mapping  
    - Fault trend analysis  
    - Maintenance action recommendations  
+## Video
 
+Uploaded the video in the below link
+https://we.tl/t-lxDGUzAKkS
 ---
